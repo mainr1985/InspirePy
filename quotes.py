@@ -9,5 +9,10 @@ quotes = [
     "Your playing small does not serve the world. - Marianne Williamson",
     "As we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others. - Marianne Williamson",
     "There's nothing to fear, but fear itself. Push on! - Franklin D. Roosevelt",
-    "Yes, you are good enough! Just keep trying. You'll get there."
+    "Yes, you are good enough! Just keep trying. You'll get there.",
+    "Simplicity is the essence of happiness. - Cedric Bledsoe",
+    "Genius is one percent inspiration and ninety-nine percent perspiration. - Thomas Edison",
+    "When there is no desire, all things are at peace. - Laozi",	
+    "Smile, breathe, and go slowly. - Thich Nhat Hanh",	
+    "He who is contented is rich. - Laozi"
 ]
